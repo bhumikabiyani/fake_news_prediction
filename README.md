@@ -1,4 +1,3 @@
-# fake_news_prediction
 ## Fake News Prediction Model
 
 This repository contains a machine learning (ML) model that predicts the authenticity and credibility of news articles, helping to identify and flag potential instances of fake news. The model utilizes state-of-the-art algorithms and techniques from natural language processing (NLP) and supervised learning to make accurate predictions based on the content and characteristics of news articles.
